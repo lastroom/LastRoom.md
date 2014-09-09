@@ -13,17 +13,24 @@ Projects
 
 # Global
 
-* [Product roadmaps](roadmaps.md)
-* [Products workflow](workflows.md)
-* [Products documentation](documentation.md)
+* [Product roadmaps](global/roadmaps.md)
+* [Products workflow](global/workflows.md)
+* [Products documentation](global/documentation.md)
 
 # Core
 
-* [QA](qa.md)
-* [JavaScript](javascript.md)
-* [Node.js](node-js.md)
-* [MongoDB](mongodb.md)
-* [RedisIO](redisio.md)
-* [iOS](ios.md)
-* [LESS](less.md)
-* [Wonka.js](wonka-js.md)
+* [QA](core/qa.md)
+* [JavaScript](core/javascript.md)
+* [Node.js](core/node-js.md)
+* [MongoDB](core/mongodb.md)
+* [RedisIO](core/redisio.md)
+* [iOS](core/ios.md)
+* [LESS](core/less.md)
+* [Wonka.js](core/wonka-js.md)
+
+# Web Services
+
+* [Github](webservices/github.md)
+* [Press docs](webservices/pressdocs.md)
+* [Blog](webservices/blog.md)
+* [Live chat](webservices/livechat.md)
