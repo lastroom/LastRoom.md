@@ -7,3 +7,4 @@ Este es el MarkDown p√∫blico oficial de LastRoom, donde compartimos la planeaci√
 
 * [Reuniones](meetings.md)
 * [Proyectos](projects.md)
+* [Eventos](events.md)
