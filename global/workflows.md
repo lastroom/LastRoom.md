@@ -18,7 +18,7 @@ Aquí está el flujo de trabajo para la planeación, seguimiento, desarrollo y l
 
 * Cada proyecto debe tener un repositorio en http://bitbucket.org.
 * Cada proyecto debe tener un responsable.
-* Cada proyecto debe tener documentación, sobre los componentes principales del proyecto, el objetivo, la estructura de archivos, detalles de implementación, guias de estilo, roadmap y como correr para desarrollo.
+* Cada proyecto debe tener documentación, sobre los componentes principales del proyecto, el objetivo, la estructura de archivos, detalles de implementación, guias de estilo, roadmap, como correr para desarrollo y producción.
 * Cada proyecto debe tener su control de issues en http://bitbucketcards.com.
 * La rama base de cada proyecto debe llamarse *Master*.
 * De la rama base deben generarse ramas con el número de versión en desarrollo (Por ejemplo: v0.0.7).
