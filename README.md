@@ -6,4 +6,4 @@ Este es el MarkDown p√∫blico oficial de LastRoom, donde compartimos la planeaci√
 # Contribuir
 
 * [Reuniones](meetings.md)
-* [Proyecto](projects.md)
+* [Proyectos](projects.md)

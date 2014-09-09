@@ -13,9 +13,9 @@ Projects
 
 # Global
 
-* [Product roadmaps](global/roadmaps.md)
+* [Product releases](global/releases.md)
 * [Products workflow](global/workflows.md)
-* [Products documentation](global/documentation.md)
+* [Products documentation](global/docs.md)
 
 # Core
 
