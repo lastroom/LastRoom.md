@@ -1,7 +1,7 @@
-Projects
+Proyectos
 =========
 
-# Projects list
+# Lista de proyectos
 
 * [extranet](projects/extranet.md)
 * [same-day.app](projects/same-day-app.md)
