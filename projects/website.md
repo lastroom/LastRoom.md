@@ -1,5 +1,5 @@
 website
 =======
 
-| Responsable | Jonathan Coutiño |
+| Responsable | Josué Avilés |
 
