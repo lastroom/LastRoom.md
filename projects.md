@@ -15,6 +15,7 @@ Proyectos
 
 * [Product releases](global/releases.md)
 * [Products workflow](global/workflows.md)
+* [Products design](global/design.md)
 
 # Core
 
