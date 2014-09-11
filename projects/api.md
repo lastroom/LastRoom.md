@@ -1,6 +1,8 @@
 API
 =======
 
-*Responsable:* Josué Camara
-*Lista de correo:* lastroom-api@googlegroups.com
-*Periodo de lanzamiento:* Inmediato
+**Responsable:** Josué Camara
+
+**Lista de correo:** lastroom-api@googlegroups.com
+
+**Periodo de lanzamiento:** Inmediato
