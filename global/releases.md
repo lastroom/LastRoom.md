@@ -16,5 +16,17 @@ Aquí puedes ver por proyecto las versiones que se han lanzado y sus features.
 
 # Same-day.app
 
+## v2.0.0
+
 * Reservación de hotel.
 * Proceso de authenticación.
+
+# API
+
+## v0.0.1
+
+* Busqueda de hoteles.
+* Imagenes de hotel.
+* Habitaciones disponibles en hotel.
+* Pago de reservación.
+* Recuperar información de reservación.
