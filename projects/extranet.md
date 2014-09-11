@@ -1,8 +1,8 @@
 extranet
 =======
 
-*Responsable:* Juan Garcés
+**Responsable:** Juan Garcés
 
-*Lista de correo:* lastroom-extranet@googlegroups.com
+**Lista de correo:** lastroom-extranet@googlegroups.com
 
-*Periodo de lanzamiento:* Quincenal
+**Periodo de lanzamiento:** Quincenal
