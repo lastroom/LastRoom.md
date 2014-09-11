@@ -1,8 +1,8 @@
 biz
 =======
 
-*Responsable:* Julián Ceballos
+**Responsable:** Julián Ceballos
 
-*Lista de correo:* lastroom-biz@googlegroups.com
+**Lista de correo:** lastroom-biz@googlegroups.com
 
-*Periodo de lanzamiento:* Semanal
+**Periodo de lanzamiento:** Semanal
