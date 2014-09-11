@@ -1,5 +1,8 @@
 devs
 =======
 
-| Responsable | Eduardo Rodriguez |
+*Responsable:* Christian Rodriguez
 
+*Lista de correo:* lastroom-devs@googlegroups.com
+
+*Periodo de lanzamiento:* Quincenal
