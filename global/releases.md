@@ -13,3 +13,8 @@ Aquí puedes ver por proyecto las versiones que se han lanzado y sus features.
 * Invitar usuarios.
 * Historial de reservaciones.
 * Proceso de autenticación.
+
+# Same-day.app
+
+* Reservación de hotel.
+* Proceso de authenticación.
