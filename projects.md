@@ -8,7 +8,7 @@ Proyectos
 * [biz](projects/biz.md)
 * [biz.app](projects/biz-app.md)
 * [website](projects/website.md)
-* [restapi](projects/restapi.md)
+* [api](projects/api.md)
 * [devs](projects/devs.md)
 
 # Global
