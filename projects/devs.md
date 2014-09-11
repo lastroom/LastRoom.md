@@ -1,8 +1,8 @@
 devs
 =======
 
-*Responsable:* Christian Rodriguez
+**Responsable:** Christian Rodriguez
 
-*Lista de correo:* lastroom-devs@googlegroups.com
+**Lista de correo:** lastroom-devs@googlegroups.com
 
-*Periodo de lanzamiento:* Quincenal
+**Periodo de lanzamiento:** Quincenal
