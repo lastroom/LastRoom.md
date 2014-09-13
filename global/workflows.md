@@ -20,6 +20,7 @@ Aquí está el flujo de trabajo para la planeación, seguimiento, desarrollo y l
 * Cada proyecto debe tener un responsable.
 * Cada proyecto debe tener documentación, sobre los componentes principales del proyecto, el objetivo, la estructura de archivos, detalles de implementación, guias de estilo, roadmap, como correr para desarrollo y producción.
 * Cada proyecto debe tener su control de issues en http://bitbucketcards.com.
+* El desarrollador tiene la obligación de actualizar su repositorio mínimo una vez al día con lo más nuevo en la versión de desarrollo.
 * La rama base de cada proyecto debe llamarse *Master*.
 * De la rama base deben generarse ramas con el número de versión en desarrollo (Por ejemplo: v0.0.7).
 * De cada versión en desarrollo, por cada issue debe generarse una rama, la cual tiene el issue desarrollado (Por ejemplo: [projectName]/[userName]/[issueNumber]-[issueDescription]).
